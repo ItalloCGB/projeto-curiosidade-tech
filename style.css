@@ -74,6 +74,7 @@ nav {
   font-size: 1.2em;
 }
 nav a {
+  margin-right: 20px;
   padding: 10px;
   color: white;
   text-decoration: none;
